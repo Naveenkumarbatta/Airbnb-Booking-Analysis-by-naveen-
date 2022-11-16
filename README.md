@@ -3,15 +3,15 @@ Airbnb Booking Analysis
 
 Email id:- naveenbatta4587@gmail.com
 
-Contribute :
-Find project resources
-Neighbourhood group Frequency.
-Total count of each room types as per listing.
-Find Minimum no’s of nights stayed and preferred rooms
-Find Price vs Number of Reviews
-Dataset observation
-Create a ppt with my team member
-Find a problem statement
+# Contribute 
+1 . Find project resources
+2 . Neighbourhood group Frequency.
+3 . Total count of each room types as per listing.
+4 . Find Minimum no’s of nights stayed and preferred rooms
+5 . Find Price vs Number of Reviews
+6 . Dataset observation
+7 . Create a ppt with my team member
+8 . Find a problem statement
 
 
 ## Project Summary
