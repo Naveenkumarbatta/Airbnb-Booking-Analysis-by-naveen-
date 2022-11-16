@@ -1,6 +1,18 @@
 # Airbnb-Booking-Analysis-by-naveen-
 Airbnb Booking Analysis
 
+Email id:- naveenbatta4587@gmail.com
+
+Contribute :
+Find project resources
+Neighbourhood group Frequency.
+Total count of each room types as per listing.
+Find Minimum no’s of nights stayed and preferred rooms
+Find Price vs Number of Reviews
+Dataset observation
+Create a ppt with my team member
+Find a problem statement
+
 
 ## Project Summary
 
